@@ -1,2 +1,2 @@
-# Tweet_Sentiment_and_Emotion_Analysis
+Tweet Sentiment and Emotion Analysis using Bi-LSTM in RNN
  
